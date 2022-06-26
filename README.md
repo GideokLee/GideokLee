@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋 I'm Gideok Lee
+### __💬I'm Android application developer__
+
+### __🌱 I’m currently learning__  
+###### 　<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+###### 　<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+###### 　<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=javag&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GideokLee&layout=compact&theme=gruvbox)](https://github.com/GideokLee/github-readme-stats)
+
 
 <!--
 **GideokLee/GideokLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
