@@ -16,7 +16,10 @@
   <br>
   
   ---
-
+  __🤔 If you're curious about me__
+  
+  <a href="https://loving-swordfish-907.notion.site/Gideok-Lee-90f8dacb609242ea91b3cd13c9a835f0"><img src="https://img.shields.io/badge/자기소개 및 포트폴리오-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  
   __:star: Blog__
 
   <a href="https://velog.io/@dlrlejr132"><img src="https://img.shields.io/badge/kiddo.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
